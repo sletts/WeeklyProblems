@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\bin\Debug\net6.0\6_27_2022_Coding_Challenge.exe
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\bin\Debug\net6.0\6_27_2022_Coding_Challenge.deps.json
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\bin\Debug\net6.0\6_27_2022_Coding_Challenge.runtimeconfig.json
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\bin\Debug\net6.0\6_27_2022_Coding_Challenge.dll
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\bin\Debug\net6.0\6_27_2022_Coding_Challenge.pdb
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.dll
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\refint\6_27_2022_Coding_Challenge.dll
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.pdb
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\6_27_2022_Coding_Challenge.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Onboarding Practice\6_27_2022_Coding_Challenge\obj\Debug\net6.0\ref\6_27_2022_Coding_Challenge.dll
