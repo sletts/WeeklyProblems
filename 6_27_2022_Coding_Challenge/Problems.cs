@@ -2,10 +2,10 @@
 string stringLights = Console.ReadLine();
 int lights = Int32.Parse(stringLights);
 
-for(int i = 0; i < lights; i++)
+for(int x = 0; x < lights; x++)
 {
-    int n = Int32.Parse(Console.ReadLine());
-    Console.WriteLine((n + 1) * (n + 2) / 2 - 1);
+    int y = Int32.Parse(Console.ReadLine());
+    Console.WriteLine((y + 1) * (y + 2) / 2 - 1);
 }
 //Question 2
 string stringcount = Console.ReadLine();
